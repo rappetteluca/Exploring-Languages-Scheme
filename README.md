@@ -14,6 +14,9 @@ Lucas Rappette
 
 - __Functional Binary Search Tree.scm__ defines a binary search tree data type along with some list like functions.
 - __Prefix Simplification.scm__ defines a simplifcation algorithm to use when simplifying all prefix expressions. Expressions take the form of a binary search tree with the root as the operator and the left and right subtrees as the operands. The algorithm recursively simplifies the binary search tree.
+There is an additional readme for this project, which is the original assignment description.
+
+This file is called _README.pdf_.
 
 ## How to build the software
 
